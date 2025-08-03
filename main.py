@@ -78,7 +78,7 @@ def main():
 
     # After collecting prices, export the latest data to a CSV file
     export_to_csv()
-
+# 
 
 # This is the entry point of the script
 if __name__ == '__main__':
