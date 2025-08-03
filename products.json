@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nike Air Force 1 '07",
+        "category": "Athletic",
+        "url": "https://www.zappos.com/p/nike-air-force-1-07-white-white/product/7146485/color/1001",
+        "price_selector": "span.c-product-price__value"
+    },
+    {
+        "name": "Adidas Stan Smith Sneaker",
+        "category": "Casual",
+        "url": "https://www.nordstrom.com/s/adidas-stan-smith-sneaker-men/7774764",
+        "price_selector": "span.D_a_p"
+    },
+    {
+        "name": "Newton Wander",
+        "category": "Boot",
+        "url": "https://www.zappos.com/p/womens-columbia-newton-wander-cloud-grey-cool-green/product/9987232/color/1098055",
+        "price_selector": "span[itemprop='price']"
+    }
+]
